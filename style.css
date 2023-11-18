@@ -72,7 +72,8 @@ article {
 }
 /*pushes list to center*/
 ol {
-  padding-left: 170px;
+  text-align: center;
+  /*padding-left: 170px;*/
 }
 /*separates contacts from the rest of the page*/
 hr {
