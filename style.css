@@ -41,14 +41,9 @@ main > p {
 main {
   border-bottom: 3px solid #000;
 }
-/*pushes the list to the center of the page with the h4 element*/
-ul {
-
-}
 /*styles the links in the nav*/
-a {
+nav {
   text-align: center;
-  margin: 0 0 0 62px;
   font-size: 20px;
 }
 
