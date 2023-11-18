@@ -2,7 +2,7 @@ html {
   height: 100%;
   width: 100%;
 }
-
+/*Centers image */
 .center-image {
   display: block;
   margin-left: auto;
@@ -11,7 +11,7 @@ html {
   border-radius: 5%;
   padding-top: 5px;
 }
-
+/*Provides style for the top of the page*/
 header {
   background-color: #FDECEF;
   font-family: "American Typewriter", sans-serif;
@@ -32,7 +32,7 @@ body {
   padding: 0;
   background-color: #515052;
 }
-
+/*gives styles to just the paragraph in main*/
 main > p {
   font-family: "Times New Roman", sans-serif;
   color: #86A5D9;
@@ -42,13 +42,13 @@ main > p {
 main {
   border-bottom: 3px solid #000;
 }
-
+/*pushes the list to the center of the page with the h4 element*/
 ul {
   font-family: "Times New Roman", sans-serif;
   color: #86A5D9;
   padding-left: 190px;
 }
-
+/*styles the links in the nav*/
 a {
   text-align: center;
   margin: 0 0 0 62px;
@@ -63,7 +63,7 @@ footer > p {
   margin: 0;
   padding: 10px;
 }
-
+/*allows the ol to have it's own style*/
 article {
   background-color: #FDECEF;
   color: #86A5D9;
@@ -71,10 +71,11 @@ article {
   border-bottom: 3px solid #000;
   border-top: 3px solid #000;
 }
+/*pushes list to center*/
 ol {
   padding-left: 170px;
 }
-
+/*separates contacts from the rest of the page*/
 hr {
   margin-left: 50px;
   margin-right: 50px;
