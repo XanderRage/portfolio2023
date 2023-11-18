@@ -43,8 +43,7 @@ main {
 }
 /*pushes the list to the center of the page with the h4 element*/
 ul {
-  font-family: "Times New Roman", sans-serif;
-  color: #86A5D9;
+
 }
 /*styles the links in the nav*/
 a {
@@ -76,6 +75,8 @@ div.container {
 .list {
   display: inline-block;
   text-align: left;
+  font-family: "Times New Roman", sans-serif;
+  color: #86A5D9;
 }
 /*separates contacts from the rest of the page*/
 hr {
