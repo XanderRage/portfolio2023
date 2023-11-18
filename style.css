@@ -16,8 +16,7 @@ header {
   background-color: #FDECEF;
   font-family: "American Typewriter", sans-serif;
   text-align: center;
-  margin: 0;
-  padding: 0;
+  height: 150px;
   border-bottom: 3px solid #000;
   border-top: 3px solid #000;
 }
