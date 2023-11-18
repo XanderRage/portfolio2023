@@ -71,9 +71,8 @@ article {
   border-top: 3px solid #000;
 }
 /*pushes list to center*/
-ol {
-  text-align: center;
-  /*padding-left: 170px;*/
+div {
+text-align: center;
 }
 /*separates contacts from the rest of the page*/
 hr {
