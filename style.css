@@ -71,8 +71,12 @@ article {
   border-top: 3px solid #000;
 }
 /*pushes list to center*/
-div {
-text-align: center;
+div.container {
+  text-align: center;
+}
+.list {
+  display: inline-block;
+  text-align: left;
 }
 /*separates contacts from the rest of the page*/
 hr {
